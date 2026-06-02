@@ -3,8 +3,5 @@ Quien soy?Mi nombre es Carlos Ruiz Montesinos y actualmente me encuentro estudia
 ```json
 {
   "tipo": "hard skills",
-  "lenguajes": [","Java","]
+  "lenguajes": ["Java",]
 
-
-### Studying
-}
