@@ -1,8 +1,11 @@
-```json
-Quien soy?Mi nombre es Carlos Ruiz Montesinos y actualmente me encuentro estudiando DAM de froma professional y por mi parte como hobby me dedico a estudiar sobre desarrollo de videojuegos tanto como el apartado artistico como el interno.
+````markdown
+Quien soy? Mi nombre es Carlos Ruiz Montesinos y actualmente me encuentro estudiando DAM...
 
 ```json
 {
   "tipo": "hard skills",
   "lenguajes": ["Java"]
+}
+```
+````
 
