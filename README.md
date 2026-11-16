@@ -1,4 +1,4 @@
-#  Hey, I'm Karlos!
+#  Hey, I'm Carlos!
 
 ### About me
 
