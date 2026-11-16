@@ -6,9 +6,7 @@
 
 -  Java developer
 -  Currently learning C++
--  Passionate about programming and technology
--  Improving my skills one project at a time
--  Turning ideas into code
+
 
 ### 🛠️ Languages & Tools
 
@@ -16,10 +14,13 @@
 
 ### 📊 GitHub Stats
 
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)" /> \</p>
+
 ---
 
 \<p align="center">
 &#x20; \<i>"Code. Learn. Break. Repeat."\</i>
 \</p>
+
 
 
